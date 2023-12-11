@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.Creating-Groups-and-Users-"/>
+
 # Creating-Groups-and-Users-
 Creating Groups and Users: step by step tutorial
 Certainly! Here's a step-by-step tutorial to accomplish the tasks you've mentioned:
